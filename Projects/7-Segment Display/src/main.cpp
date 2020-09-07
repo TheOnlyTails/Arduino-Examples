@@ -1,6 +1,8 @@
 #include <Arduino.h>
 
-//SSD = Seven-Segment Display
+// SSD = Seven-Segment Display
+// Note - the schematics refer to 2 SSDs.
+// For this project, only connect the right one, but exactly the same as in the picture (use the same pins). 
 
 void setup()
 {
@@ -11,7 +13,7 @@ void setup()
   }
 }
 
-//The line below is the array containing all the binary numbers for the digits on a SSD from 0 to 9
+// The line below is the array containing all the binary numbers for the digits on a SSD from 0 to 9
 const int number[11] = {0b0111111,
                         0b0000110,
                         0b1011011,
