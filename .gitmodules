@@ -1,3 +1,6 @@
 [submodule "Button"]
 	path = Button
 	url = https://github.com/TheOnlyTails/Button
+[submodule "Blink"]
+	path = Blink
+	url = https://github.com/TheOnlyTails/Blink
