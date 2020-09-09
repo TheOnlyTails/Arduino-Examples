@@ -7,3 +7,6 @@
 [submodule "7-Segment-Display"]
 	path = 7-Segment-Display
 	url = https://github.com/TheOnlyTails/7-Segment-Display
+[submodule "LED-Matrix-Display"]
+	path = LED-Matrix-Display
+	url = https://github.com/TheOnlyTails/LED-Matrix-Display
