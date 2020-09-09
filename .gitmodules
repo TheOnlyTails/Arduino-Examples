@@ -4,3 +4,6 @@
 [submodule "Blink"]
 	path = Blink
 	url = https://github.com/TheOnlyTails/Blink
+[submodule "7-Segment-Display"]
+	path = 7-Segment-Display
+	url = https://github.com/TheOnlyTails/7-Segment-Display
