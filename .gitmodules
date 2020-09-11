@@ -13,3 +13,6 @@
 [submodule "LCD-Display"]
 	path = LCD-Display
 	url = https://github.com/TheOnlyTails/LCD-Display
+[submodule "DC-Motor"]
+	path = DC-Motor
+	url = https://github.com/TheOnlyTails/DC-Motor
